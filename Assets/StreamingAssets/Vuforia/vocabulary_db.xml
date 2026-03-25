@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="fresh-apple-high-resolution-detail-photo" size="10.000000 10.000000" />
+    <ImageTarget name="man" size="10.000000 10.000000" />
+    <ImageTarget name="cow" size="10.000000 10.000000" />
+    <ImageTarget name="boy" size="10.000000 10.000000" />
+    <ImageTarget name="cowboy" size="10.000000 10.000000" />
+    <ImageTarget name="fly" size="10.000000 10.000000" />
+    <ImageTarget name="firefly" size="10.000000 10.000000" />
+    <ImageTarget name="fire" size="10.000000 10.000000" />
+    <ImageTarget name="castle" size="10.000000 10.000000" />
+    <ImageTarget name="sandcastle" size="10.000000 10.000000" />
+    <ImageTarget name="sand" size="10.000000 10.000000" />
+    <ImageTarget name="book" size="10.000000 10.000000" />
+    <ImageTarget name="case" size="10.000000 10.000000" />
+    <ImageTarget name="backpack" size="10.000000 10.000000" />
+    <ImageTarget name="teacher" size="10.000000 10.000000" />
+    <ImageTarget name="girl" size="10.000000 10.000000" />
+    <ImageTarget name="woman" size="10.000000 10.000000" />
+    <ImageTarget name="airplane" size="10.000000 10.000000" />
+    <ImageTarget name="car" size="10.000000 10.000000" />
+    <ImageTarget name="bus" size="10.000000 10.000000" />
+    <ImageTarget name="ship" size="10.000000 10.000000" />
+    <ImageTarget name="train" size="10.000000 10.000000" />
+    <ImageTarget name="policeman" size="10.000000 10.000000" />
+    <ImageTarget name="firefighter" size="10.000000 10.000000" />
+    <ImageTarget name="doctor" size="10.000000 10.000000" />
+    <ImageTarget name="chef" size="10.000000 10.000000" />
+    <ImageTarget name="mechanic" size="10.000000 10.000000" />
+    <ImageTarget name="nurse" size="10.000000 10.000000" />
+    <ImageTarget name="worker" size="10.000000 10.000000" />
+    <ImageTarget name="carrot" size="10.000000 10.000000" />
+    <ImageTarget name="strawberry" size="10.000000 10.000000" />
+    <ImageTarget name="banana" size="10.000000 10.000000" />
+    <ImageTarget name="watermelon" size="10.000000 10.000000" />
+    <ImageTarget name="cat" size="10.000000 10.000000" />
+    <ImageTarget name="dog" size="10.000000 10.000000" />
+    <ImageTarget name="elephant" size="10.000000 10.000000" />
+    <ImageTarget name="tiger" size="10.000000 10.000000" />
+    <ImageTarget name="snake" size="10.000000 10.000000" />
+    <ImageTarget name="parrotsmell" size="10.000000 10.000000" />
+    <ImageTarget name="girafe" size="10.000000 10.000000" />
+    <ImageTarget name="rabit" size="10.000000 10.000000" />
+    <ImageTarget name="apple" size="10.000000 10.000000" />
+    <ImageTarget name="tshirt" size="10.000000 10.000000" />
+    <ImageTarget name="sneakers" size="10.000000 10.000000" />
+    <ImageTarget name="socks" size="10.000000 10.000000" />
+    <ImageTarget name="scarf" size="10.000000 10.000000" />
+    <ImageTarget name="earrings" size="10.000000 10.000000" />
+    <ImageTarget name="pencilcase" size="10.000000 10.000000" />
+    <ImageTarget name="sun" size="10.000000 10.000000" />
+    <ImageTarget name="glasses" size="10.000000 10.000000" />
+    <ImageTarget name="sunglasses" size="10.000000 10.000000" />
+    <ImageTarget name="tooth" size="10.000000 10.000000" />
+    <ImageTarget name="toothbrush" size="10.000000 10.000000" />
+    <ImageTarget name="brush" size="10.000000 10.000000" />
+    <ImageTarget name="ball" size="10.000000 10.000000" />
+    <ImageTarget name="foot" size="10.000000 10.000000" />
+    <ImageTarget name="football" size="10.000000 10.000000" />
+    <ImageTarget name="rain" size="10.000000 10.000000" />
+    <ImageTarget name="coat" size="10.000000 10.000000" />
+    <ImageTarget name="raincoat" size="10.000000 10.000000" />
+    <ImageTarget name="snowman" size="10.000000 10.000000" />
   </Tracking>
 </QCARConfig>
