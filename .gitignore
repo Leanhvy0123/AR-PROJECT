@@ -1,24 +1,22 @@
-[Ll]ibrary/
-[Tt]emp/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-UserSettings/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]onfig/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
+# Các file rác của hệ điều hành và IDE
 *.csproj
-*.unityproj
 *.sln
 *.suo
-*.tmp
 *.user
 *.userprefs
 *.pidb
 *.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-
-# Vuforia package
-Packages/*.tgz
+*.svclog
+*.unitypackage
+*.tgz
+# Các file rác của macOS
+.DS_Store
